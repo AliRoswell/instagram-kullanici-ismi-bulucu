@@ -11,6 +11,6 @@ Bu araç 4 harf uzunluğunda oaln kullanıcı adı bulur
 eğer boş bir kullanıcı adı bulursa aliroswell.txt ye kayıt eder
 ne kadar uzun olcağını input a yazınız.
 
-@waliroswell
+@aliroswell
 
 tg @bruharsiv
